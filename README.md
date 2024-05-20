@@ -1,3 +1,4 @@
+![logo](https://github.com/Radhika-Gaikwad/Radhika-Gaikwad/blob/main/OIP.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Radhika Sainath Gaikwad</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
